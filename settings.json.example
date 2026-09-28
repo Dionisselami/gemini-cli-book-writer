@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "proseify": {
+      "httpUrl": "https://mcp.proseify.xyz/mcp",
+      "headers": {
+        "Authorization": "Bearer ${PROSEIFY_API_KEY}"
+      },
+      "timeout": 300000
+    }
+  }
+}
